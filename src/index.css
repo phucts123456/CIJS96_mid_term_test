@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Inter');
+*{
+  --black: #000;
+  --white: #ffffff;
+  --black-blue: #374151;
+  --grey-blue: #868686;
+  --page-background:#192026;
+  --header-height:70px;
+  margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+  box-sizing: border-box;
+	font: inherit;
+	vertical-align: baseline;
+  font-family: 'Inter';
+}
+
+body {
+  background-color: #192026;
+}
+
+.app_container{
+  width: 90%;
+  margin: auto;
+}
